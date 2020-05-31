@@ -1,0 +1,43 @@
+﻿Team A,TEAM_ABBREVIATION_x,Team B,TEAM_ABBREVIATION_y,rivalry
+Cleveland Cavaliers,CLE,Golden State Warriors,GSW,1
+Boston Celtics,BOS,Los Angeles Lakers,LAL,1
+Los Angeles Lakers,LAL,Detroit Pistons,DET,1
+Philadelphia 76ers,PHI,Boston Celtics,BOS,1
+Boston Celtics,BOS,New York Knicks,NYK,1
+New York Knicks,NYK,Brooklyn Nets,BKN,1
+Chicago Bulls,CHI,Cleveland Cavaliers,CLE,1
+Chicago Bulls,CHI,Detroit Pistons,DET,1
+Miami Heat,MIA,Orlando Magic,ORL,1
+Chicago Bulls,CHI,New York Knicks,NYK,1
+Boston Celtics,BOS,Detroit Pistons,DET,1
+Miami Heat,MIA,New York Knicks,NYK,1
+New York Knicks,NYK,Indiana Pacers,IND,1
+Los Angeles Lakers,LAL,Los Angeles Clippers,LAC,1
+Los Angeles Lakers,LAL,Phoenix Suns,PHX,1
+Dallas Mavericks,DAL,Houston Rockets,HOU,1
+Dallas Mavericks,DAL,San Antonio Spurs,SAS,1
+Houston Rockets,HOU,San Antonio Spurs,SAS,1
+Utah Jazz,UTA,Houston Rockets,HOU,1
+Los Angeles Lakers,LAL,San Antonio Spurs,SAS,1
+San Antonio Spurs,SAS,Phoenix Suns,PHX,1
+Golden State Warriors,GSW,Cleveland Cavaliers,CLE,1
+Los Angeles Lakers,LAL,Boston Celtics,BOS,1
+Detroit Pistons,DET,Los Angeles Lakers,LAL,1
+Boston Celtics,BOS,Philadelphia 76ers,PHI,1
+New York Knicks,NYK,Boston Celtics,BOS,1
+Brooklyn Nets,BKN,New York Knicks,NYK,1
+Cleveland Cavaliers,CLE,Chicago Bulls,CHI,1
+Detroit Pistons,DET,Chicago Bulls,CHI,1
+Orlando Magic,ORL,Miami Heat,MIA,1
+New York Knicks,NYK,Chicago Bulls,CHI,1
+Detroit Pistons,DET,Boston Celtics,BOS,1
+New York Knicks,NYK,Miami Heat,MIA,1
+Indiana Pacers,IND,New York Knicks,NYK,1
+Los Angeles Clippers,LAC,Los Angeles Lakers,LAL,1
+Phoenix Suns,PHX,Los Angeles Lakers,LAL,1
+Houston Rockets,HOU,Dallas Mavericks,DAL,1
+San Antonio Spurs,SAS,Dallas Mavericks,DAL,1
+San Antonio Spurs,SAS,Houston Rockets,HOU,1
+Houston Rockets,HOU,Utah Jazz,UTA,1
+San Antonio Spurs,SAS,Los Angeles Lakers,LAL,1
+Phoenix Suns,PHX,San Antonio Spurs,SAS,1

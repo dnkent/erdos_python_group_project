@@ -1,0 +1,901 @@
+origin,TEAM_ABBREVIATION_x,destination,TEAM_ABBREVIATION_y,distance_miles
+Atlanta Hawks,ATL,Atlanta,ATL,0
+Boston Celtics,BOS,Atlanta,ATL,1086.22
+Brooklyn Nets,BKN,Atlanta,ATL,872.39
+Charlotte Hornets,CHA,Atlanta,ATL,244.35
+Chicago Bulls,CHI,Atlanta,ATL,718.13
+Cleveland Cavaliers,CLE,Atlanta,ATL,707.78
+Dallas Mavericks,DAL,Atlanta,ATL,782.72
+Denver Nuggets,DEN,Atlanta,ATL,1399.62
+Detroit Pistons,DET,Atlanta,ATL,730.24
+Golden State Warriors,GSW,Atlanta,ATL,2457.18
+Houston Rockets,HOU,Atlanta,ATL,793.34
+Indiana Pacers,IND,Atlanta,ATL,531.78
+Los Angeles Lakers,LAL,Atlanta,ATL,2175.86
+Los Angeles Clippers,LAC,Atlanta,ATL,2175.86
+Memphis Grizzlies,MEM,Atlanta,ATL,383.11
+Miami Heat,MIA,Atlanta,ATL,662.17
+Milwaukee Bucks,MIL,Atlanta,ATL,811.19
+Minnesota Timberwolves,MIN,Atlanta,ATL,1126.43
+New Orleans Pelicans,NOP,Atlanta,ATL,471.46
+New York Knicks,NYK,Atlanta,ATL,873.58
+Oklahoma City Thunder,OKC,Atlanta,ATL,848.02
+Orlando Magic,ORL,Atlanta,ATL,438.51
+Philadelphia 76ers,PHI,Atlanta,ATL,784.85
+Phoenix Suns,PHX,Atlanta,ATL,1845.33
+Portland Trailblazers,POR,Atlanta,ATL,2595.09
+Sacramento Kings,SAC,Atlanta,ATL,2470.71
+San Antonio Spurs,SAS,Atlanta,ATL,983.65
+Toronto Raptors,TOR,Atlanta,ATL,968.86
+Utah Jazz,UTA,Atlanta,ATL,1870.51
+Washington Wizards,WAS,Atlanta,ATL,637.9
+Atlanta Hawks,ATL,Boston,BOS,1100.15
+Boston Celtics,BOS,Boston,BOS,0
+Brooklyn Nets,BKN,Boston,BOS,216.93
+Charlotte Hornets,CHA,Boston,BOS,839.43
+Chicago Bulls,CHI,Boston,BOS,984.66
+Cleveland Cavaliers,CLE,Boston,BOS,640.16
+Dallas Mavericks,DAL,Boston,BOS,1769.76
+Denver Nuggets,DEN,Boston,BOS,1970.45
+Detroit Pistons,DET,Boston,BOS,718.09
+Golden State Warriors,GSW,Boston,BOS,3099.88
+Houston Rockets,HOU,Boston,BOS,1848.42
+Indiana Pacers,IND,Boston,BOS,950.07
+Los Angeles Lakers,LAL,Boston,BOS,2985.59
+Los Angeles Clippers,LAC,Boston,BOS,2985.59
+Memphis Grizzlies,MEM,Boston,BOS,1363.81
+Miami Heat,MIA,Boston,BOS,1490.03
+Milwaukee Bucks,MIL,Boston,BOS,1074.06
+Minnesota Timberwolves,MIN,Boston,BOS,1390.43
+New Orleans Pelicans,NOP,Boston,BOS,1526.43
+New York Knicks,NYK,Boston,BOS,213.83
+Oklahoma City Thunder,OKC,Boston,BOS,1690.85
+Orlando Magic,ORL,Boston,BOS,1286.43
+Philadelphia 76ers,PHI,Boston,BOS,306.63
+Phoenix Suns,PHX,Boston,BOS,2648.03
+Portland Trailblazers,POR,Boston,BOS,3091.49
+Sacramento Kings,SAC,Boston,BOS,3016.02
+San Antonio Spurs,SAS,Boston,BOS,2038.73
+Toronto Raptors,TOR,Boston,BOS,549.47
+Utah Jazz,UTA,Boston,BOS,2366.92
+Washington Wizards,WAS,Boston,BOS,439.52
+Atlanta Hawks,ATL,Brooklyn - NY,BKN,865.25
+Boston Celtics,BOS,Brooklyn - NY,BKN,217.19
+Brooklyn Nets,BKN,Brooklyn - NY,BKN,0
+Charlotte Hornets,CHA,Brooklyn - NY,BKN,628.8
+Chicago Bulls,CHI,Brooklyn - NY,BKN,793.24
+Cleveland Cavaliers,CLE,Brooklyn - NY,BKN,470.85
+Dallas Mavericks,DAL,Brooklyn - NY,BKN,1551.84
+Denver Nuggets,DEN,Brooklyn - NY,BKN,1779.03
+Detroit Pistons,DET,Brooklyn - NY,BKN,625.56
+Golden State Warriors,GSW,Brooklyn - NY,BKN,2908.46
+Houston Rockets,HOU,Brooklyn - NY,BKN,1630.5
+Indiana Pacers,IND,Brooklyn - NY,BKN,712.64
+Los Angeles Lakers,LAL,Brooklyn - NY,BKN,2793.79
+Los Angeles Clippers,LAC,Brooklyn - NY,BKN,2793.79
+Memphis Grizzlies,MEM,Brooklyn - NY,BKN,1099.51
+Miami Heat,MIA,Brooklyn - NY,BKN,1279.43
+Milwaukee Bucks,MIL,Brooklyn - NY,BKN,882.64
+Minnesota Timberwolves,MIN,Brooklyn - NY,BKN,1199
+New Orleans Pelicans,NOP,Brooklyn - NY,BKN,1308.51
+New York Knicks,NYK,Brooklyn - NY,BKN,5.27
+Oklahoma City Thunder,OKC,Brooklyn - NY,BKN,1470.17
+Orlando Magic,ORL,Brooklyn - NY,BKN,1075.81
+Philadelphia 76ers,PHI,Brooklyn - NY,BKN,96.39
+Phoenix Suns,PHX,Brooklyn - NY,BKN,2427.35
+Portland Trailblazers,POR,Brooklyn - NY,BKN,2900.07
+Sacramento Kings,SAC,Brooklyn - NY,BKN,2824.6
+San Antonio Spurs,SAS,Brooklyn - NY,BKN,1820.81
+Toronto Raptors,TOR,Brooklyn - NY,BKN,499.93
+Utah Jazz,UTA,Brooklyn - NY,BKN,2175.49
+Washington Wizards,WAS,Brooklyn - NY,BKN,229.28
+Atlanta Hawks,ATL,Charlotte,CHA,243.69
+Boston Celtics,BOS,Charlotte,CHA,848.51
+Brooklyn Nets,BKN,Charlotte,CHA,634.7
+Charlotte Hornets,CHA,Charlotte,CHA,0
+Chicago Bulls,CHI,Charlotte,CHA,759.31
+Cleveland Cavaliers,CLE,Charlotte,CHA,514.45
+Dallas Mavericks,DAL,Charlotte,CHA,1027.08
+Denver Nuggets,DEN,Charlotte,CHA,1562.19
+Detroit Pistons,DET,Charlotte,CHA,637.84
+Golden State Warriors,GSW,Charlotte,CHA,2701.54
+Houston Rockets,HOU,Charlotte,CHA,1036.73
+Indiana Pacers,IND,Charlotte,CHA,575.29
+Los Angeles Lakers,LAL,Charlotte,CHA,2420.22
+Los Angeles Clippers,LAC,Charlotte,CHA,2420.22
+Memphis Grizzlies,MEM,Charlotte,CHA,627.46
+Miami Heat,MIA,Charlotte,CHA,728.65
+Milwaukee Bucks,MIL,Charlotte,CHA,852.37
+Minnesota Timberwolves,MIN,Charlotte,CHA,1164.61
+New Orleans Pelicans,NOP,Charlotte,CHA,714.84
+New York Knicks,NYK,Charlotte,CHA,635.88
+Oklahoma City Thunder,OKC,Charlotte,CHA,1086.24
+Orlando Magic,ORL,Charlotte,CHA,525.04
+Philadelphia 76ers,PHI,Charlotte,CHA,547.15
+Phoenix Suns,PHX,Charlotte,CHA,2089.69
+Portland Trailblazers,POR,Charlotte,CHA,2757.66
+Sacramento Kings,SAC,Charlotte,CHA,2682.19
+San Antonio Spurs,SAS,Charlotte,CHA,1227.04
+Toronto Raptors,TOR,Charlotte,CHA,757.77
+Utah Jazz,UTA,Charlotte,CHA,2033.09
+Washington Wizards,WAS,Charlotte,CHA,400.21
+Atlanta Hawks,ATL,Chicago,CHI,717.27
+Boston Celtics,BOS,Chicago,CHI,984.73
+Brooklyn Nets,BKN,Chicago,CHI,794.52
+Charlotte Hornets,CHA,Chicago,CHI,767.69
+Chicago Bulls,CHI,Chicago,CHI,0
+Cleveland Cavaliers,CLE,Chicago,CHI,345.24
+Dallas Mavericks,DAL,Chicago,CHI,928.46
+Denver Nuggets,DEN,Chicago,CHI,1000.65
+Detroit Pistons,DET,Chicago,CHI,282.85
+Golden State Warriors,GSW,Chicago,CHI,2130.07
+Houston Rockets,HOU,Chicago,CHI,1094.61
+Indiana Pacers,IND,Chicago,CHI,187.37
+Los Angeles Lakers,LAL,Chicago,CHI,2015.42
+Los Angeles Clippers,LAC,Chicago,CHI,2015.42
+Memphis Grizzlies,MEM,Chicago,CHI,535.59
+Miami Heat,MIA,Chicago,CHI,1379.13
+Milwaukee Bucks,MIL,Chicago,CHI,91.18
+Minnesota Timberwolves,MIN,Chicago,CHI,407.54
+New Orleans Pelicans,NOP,Chicago,CHI,927.85
+New York Knicks,NYK,Chicago,CHI,792.92
+Oklahoma City Thunder,OKC,Chicago,CHI,797.93
+Orlando Magic,ORL,Chicago,CHI,1155.47
+Philadelphia 76ers,PHI,Chicago,CHI,760.7
+Phoenix Suns,PHX,Chicago,CHI,1750.67
+Portland Trailblazers,POR,Chicago,CHI,2121.68
+Sacramento Kings,SAC,Chicago,CHI,2046.21
+San Antonio Spurs,SAS,Chicago,CHI,1239.14
+Toronto Raptors,TOR,Chicago,CHI,520.26
+Utah Jazz,UTA,Chicago,CHI,1397.11
+Washington Wizards,WAS,Chicago,CHI,703.6
+Atlanta Hawks,ATL,Cleveland,CLE,708.26
+Boston Celtics,BOS,Cleveland,CLE,639.99
+Brooklyn Nets,BKN,Cleveland,CLE,463.8
+Charlotte Hornets,CHA,Cleveland,CLE,516.16
+Chicago Bulls,CHI,Cleveland,CLE,345.63
+Cleveland Cavaliers,CLE,Cleveland,CLE,0
+Dallas Mavericks,DAL,Cleveland,CLE,1182.24
+Denver Nuggets,DEN,Cleveland,CLE,1331.43
+Detroit Pistons,DET,Cleveland,CLE,177.96
+Golden State Warriors,GSW,Cleveland,CLE,2460.85
+Houston Rockets,HOU,Cleveland,CLE,1306.84
+Indiana Pacers,IND,Cleveland,CLE,316.17
+Los Angeles Lakers,LAL,Cleveland,CLE,2346.56
+Los Angeles Clippers,LAC,Cleveland,CLE,2346.56
+Memphis Grizzlies,MEM,Cleveland,CLE,729.91
+Miami Heat,MIA,Cleveland,CLE,1241.25
+Milwaukee Bucks,MIL,Cleveland,CLE,435.04
+Minnesota Timberwolves,MIN,Cleveland,CLE,751.4
+New Orleans Pelicans,NOP,Cleveland,CLE,1052.99
+New York Knicks,NYK,Cleveland,CLE,462.99
+Oklahoma City Thunder,OKC,Cleveland,CLE,1056.95
+Orlando Magic,ORL,Cleveland,CLE,1037.65
+Philadelphia 76ers,PHI,Cleveland,CLE,430.74
+Phoenix Suns,PHX,Cleveland,CLE,2014.14
+Portland Trailblazers,POR,Cleveland,CLE,2452.46
+Sacramento Kings,SAC,Cleveland,CLE,2376.99
+San Antonio Spurs,SAS,Cleveland,CLE,1451.37
+Toronto Raptors,TOR,Cleveland,CLE,290.73
+Utah Jazz,UTA,Cleveland,CLE,1727.89
+Washington Wizards,WAS,Cleveland,CLE,372.82
+Atlanta Hawks,ATL,Dallas,DAL,784.23
+Boston Celtics,BOS,Dallas,DAL,1770.72
+Brooklyn Nets,BKN,Dallas,DAL,1551.85
+Charlotte Hornets,CHA,Dallas,DAL,1029.09
+Chicago Bulls,CHI,Dallas,DAL,971.8
+Cleveland Cavaliers,CLE,Dallas,DAL,1184.86
+Dallas Mavericks,DAL,Dallas,DAL,0
+Denver Nuggets,DEN,Dallas,DAL,794
+Detroit Pistons,DET,Dallas,DAL,1216.97
+Golden State Warriors,GSW,Dallas,DAL,1714.18
+Houston Rockets,HOU,Dallas,DAL,241.73
+Indiana Pacers,IND,Dallas,DAL,909.47
+Los Angeles Lakers,LAL,Dallas,DAL,1439.08
+Los Angeles Clippers,LAC,Dallas,DAL,1439.08
+Memphis Grizzlies,MEM,Dallas,DAL,456.66
+Miami Heat,MIA,Dallas,DAL,1310.33
+Milwaukee Bucks,MIL,Dallas,DAL,1000.42
+Minnesota Timberwolves,MIN,Dallas,DAL,940.77
+New Orleans Pelicans,NOP,Dallas,DAL,507.14
+New York Knicks,NYK,Dallas,DAL,1552.83
+Oklahoma City Thunder,OKC,Dallas,DAL,203.63
+Orlando Magic,ORL,Dallas,DAL,1086.67
+Philadelphia 76ers,PHI,Dallas,DAL,1469.58
+Phoenix Suns,PHX,Dallas,DAL,1064.58
+Portland Trailblazers,POR,Dallas,DAL,2007.01
+Sacramento Kings,SAC,Dallas,DAL,1727.71
+San Antonio Spurs,SAS,Dallas,DAL,271.93
+Toronto Raptors,TOR,Dallas,DAL,1454.37
+Utah Jazz,UTA,Dallas,DAL,1240.61
+Washington Wizards,WAS,Dallas,DAL,1332.92
+Atlanta Hawks,ATL,Denver,DEN,1401.54
+Boston Celtics,BOS,Denver,DEN,1969.76
+Brooklyn Nets,BKN,Denver,DEN,1778.79
+Charlotte Hornets,CHA,Denver,DEN,1561.09
+Chicago Bulls,CHI,Denver,DEN,999.74
+Cleveland Cavaliers,CLE,Denver,DEN,1330.27
+Dallas Mavericks,DAL,Denver,DEN,792.49
+Denver Nuggets,DEN,Denver,DEN,0
+Detroit Pistons,DET,Denver,DEN,1266.97
+Golden State Warriors,GSW,Denver,DEN,1252.19
+Houston Rockets,HOU,Denver,DEN,1033.81
+Indiana Pacers,IND,Denver,DEN,1090.87
+Los Angeles Lakers,LAL,Denver,DEN,1017.43
+Los Angeles Clippers,LAC,Denver,DEN,1017.43
+Memphis Grizzlies,MEM,Denver,DEN,1048.73
+Miami Heat,MIA,Denver,DEN,2063.4
+Milwaukee Bucks,MIL,Denver,DEN,1042.28
+Minnesota Timberwolves,MIN,Denver,DEN,914.38
+New Orleans Pelicans,NOP,Denver,DEN,1295.41
+New York Knicks,NYK,Denver,DEN,1777.98
+Oklahoma City Thunder,OKC,Denver,DEN,678.39
+Orlando Magic,ORL,Denver,DEN,1839.74
+Philadelphia 76ers,PHI,Denver,DEN,1726.81
+Phoenix Suns,PHX,Denver,DEN,863.41
+Portland Trailblazers,POR,Denver,DEN,1243.8
+Sacramento Kings,SAC,Denver,DEN,1168.33
+San Antonio Spurs,SAS,Denver,DEN,936.26
+Toronto Raptors,TOR,Denver,DEN,1504.38
+Utah Jazz,UTA,Denver,DEN,519.23
+Washington Wizards,WAS,Denver,DEN,1661.54
+Atlanta Hawks,ATL,Detroit,DET,720.91
+Boston Celtics,BOS,Detroit,DET,718.75
+Brooklyn Nets,BKN,Detroit,DET,616.45
+Charlotte Hornets,CHA,Detroit,DET,629.8
+Chicago Bulls,CHI,Detroit,DET,282.86
+Cleveland Cavaliers,CLE,Detroit,DET,167.93
+Dallas Mavericks,DAL,Detroit,DET,1185.9
+Denver Nuggets,DEN,Detroit,DET,1267.42
+Detroit Pistons,DET,Detroit,DET,0
+Golden State Warriors,GSW,Detroit,DET,2396.85
+Houston Rockets,HOU,Detroit,DET,1310.66
+Indiana Pacers,IND,Detroit,DET,286.07
+Los Angeles Lakers,LAL,Detroit,DET,2282.56
+Los Angeles Clippers,LAC,Detroit,DET,2282.56
+Memphis Grizzlies,MEM,Detroit,DET,742.57
+Miami Heat,MIA,Detroit,DET,1382.77
+Milwaukee Bucks,MIL,Detroit,DET,381.04
+Minnesota Timberwolves,MIN,Detroit,DET,693.28
+New Orleans Pelicans,NOP,Detroit,DET,1065.64
+New York Knicks,NYK,Detroit,DET,615.78
+Oklahoma City Thunder,OKC,Detroit,DET,1026.85
+Orlando Magic,ORL,Detroit,DET,1159.11
+Philadelphia 76ers,PHI,Detroit,DET,583.4
+Phoenix Suns,PHX,Detroit,DET,1984.11
+Portland Trailblazers,POR,Detroit,DET,2388.46
+Sacramento Kings,SAC,Detroit,DET,2312.99
+San Antonio Spurs,SAS,Detroit,DET,1455.03
+Toronto Raptors,TOR,Detroit,DET,241.91
+Utah Jazz,UTA,Detroit,DET,1663.88
+Washington Wizards,WAS,Detroit,DET,525.48
+Atlanta Hawks,ATL,Oakland,GSW,2456.9
+Boston Celtics,BOS,Oakland,GSW,3095.38
+Brooklyn Nets,BKN,Oakland,GSW,2904.41
+Charlotte Hornets,CHA,Oakland,GSW,2701.77
+Chicago Bulls,CHI,Oakland,GSW,2125.37
+Cleveland Cavaliers,CLE,Oakland,GSW,2455.89
+Dallas Mavericks,DAL,Oakland,GSW,1713.47
+Denver Nuggets,DEN,Oakland,GSW,1209.03
+Detroit Pistons,DET,Oakland,GSW,2392.59
+Golden State Warriors,GSW,Oakland,GSW,0
+Houston Rockets,HOU,Oakland,GSW,1910.89
+Indiana Pacers,IND,Oakland,GSW,2271.63
+Los Angeles Lakers,LAL,Oakland,GSW,372.46
+Los Angeles Clippers,LAC,Oakland,GSW,372.46
+Memphis Grizzlies,MEM,Oakland,GSW,2075.87
+Miami Heat,MIA,Oakland,GSW,3093.94
+Milwaukee Bucks,MIL,Oakland,GSW,2167.89
+Minnesota Timberwolves,MIN,Oakland,GSW,1977.51
+New Orleans Pelicans,NOP,Oakland,GSW,2216.38
+New York Knicks,NYK,Oakland,GSW,2903.68
+Oklahoma City Thunder,OKC,Oakland,GSW,1609.74
+Orlando Magic,ORL,Oakland,GSW,2870.28
+Philadelphia 76ers,PHI,Oakland,GSW,2871.35
+Phoenix Suns,PHX,Oakland,GSW,736.29
+Portland Trailblazers,POR,Oakland,GSW,635.81
+Sacramento Kings,SAC,Oakland,GSW,87.04
+San Antonio Spurs,SAS,Oakland,GSW,1721.11
+Toronto Raptors,TOR,Oakland,GSW,2630
+Utah Jazz,UTA,Oakland,GSW,735.88
+Washington Wizards,WAS,Oakland,GSW,2813.44
+Atlanta Hawks,ATL,Houston,HOU,793.42
+Boston Celtics,BOS,Houston,HOU,1847.59
+Brooklyn Nets,BKN,Houston,HOU,1634.01
+Charlotte Hornets,CHA,Houston,HOU,1036.17
+Chicago Bulls,CHI,Houston,HOU,1083.74
+Cleveland Cavaliers,CLE,Houston,HOU,1296.8
+Dallas Mavericks,DAL,Houston,HOU,241.89
+Denver Nuggets,DEN,Houston,HOU,1038.61
+Detroit Pistons,DET,Houston,HOU,1328.91
+Golden State Warriors,GSW,Houston,HOU,1913.57
+Houston Rockets,HOU,Houston,HOU,0
+Indiana Pacers,IND,Houston,HOU,1021.35
+Los Angeles Lakers,LAL,Houston,HOU,1551.55
+Los Angeles Clippers,LAC,Houston,HOU,1551.55
+Memphis Grizzlies,MEM,Houston,HOU,568.6
+Miami Heat,MIA,Houston,HOU,1185.74
+Milwaukee Bucks,MIL,Houston,HOU,1171.6
+Minnesota Timberwolves,MIN,Houston,HOU,1180.22
+New Orleans Pelicans,NOP,Houston,HOU,346.9
+New York Knicks,NYK,Houston,HOU,1629.71
+Oklahoma City Thunder,OKC,Houston,HOU,445.71
+Orlando Magic,ORL,Houston,HOU,962.08
+Philadelphia 76ers,PHI,Houston,HOU,1546.46
+Phoenix Suns,PHX,Houston,HOU,1177.05
+Portland Trailblazers,POR,Houston,HOU,2251.62
+Sacramento Kings,SAC,Houston,HOU,1932.11
+San Antonio Spurs,SAS,Houston,HOU,192.98
+Toronto Raptors,TOR,Houston,HOU,1550.24
+Utah Jazz,UTA,Houston,HOU,1451
+Washington Wizards,WAS,Houston,HOU,1408.32
+Atlanta Hawks,ATL,Indianapolis,IND,533.54
+Boston Celtics,BOS,Indianapolis,IND,949.7
+Brooklyn Nets,BKN,Indianapolis,IND,727.77
+Charlotte Hornets,CHA,Indianapolis,IND,583.96
+Chicago Bulls,CHI,Indianapolis,IND,186.43
+Cleveland Cavaliers,CLE,Indianapolis,IND,315.27
+Dallas Mavericks,DAL,Indianapolis,IND,899.97
+Denver Nuggets,DEN,Indianapolis,IND,1083.21
+Detroit Pistons,DET,Indianapolis,IND,297.86
+Golden State Warriors,GSW,Indianapolis,IND,2277.5
+Houston Rockets,HOU,Indianapolis,IND,1024.56
+Indiana Pacers,IND,Indianapolis,IND,0
+Los Angeles Lakers,LAL,Indianapolis,IND,2100.26
+Los Angeles Clippers,LAC,Indianapolis,IND,2100.26
+Memphis Grizzlies,MEM,Indianapolis,IND,465.55
+Miami Heat,MIA,Indianapolis,IND,1195.4
+Milwaukee Bucks,MIL,Indianapolis,IND,279.49
+Minnesota Timberwolves,MIN,Indianapolis,IND,592.38
+New Orleans Pelicans,NOP,Indianapolis,IND,820.84
+New York Knicks,NYK,Indianapolis,IND,711.47
+Oklahoma City Thunder,OKC,Indianapolis,IND,740.91
+Orlando Magic,ORL,Indianapolis,IND,971.74
+Philadelphia 76ers,PHI,Indianapolis,IND,643.53
+Phoenix Suns,PHX,Indianapolis,IND,1698.1
+Portland Trailblazers,POR,Indianapolis,IND,2269.11
+Sacramento Kings,SAC,Indianapolis,IND,2193.64
+San Antonio Spurs,SAS,Indianapolis,IND,1169.1
+Toronto Raptors,TOR,Indianapolis,IND,536.48
+Utah Jazz,UTA,Indianapolis,IND,1544.53
+Washington Wizards,WAS,Indianapolis,IND,578.26
+Atlanta Hawks,ATL,Los Angeles,LAL,2178.97
+Boston Celtics,BOS,Los Angeles,LAL,2986.21
+Brooklyn Nets,BKN,Los Angeles,LAL,2795.25
+Charlotte Hornets,CHA,Los Angeles,LAL,2423.84
+Chicago Bulls,CHI,Los Angeles,LAL,2016.18
+Cleveland Cavaliers,CLE,Los Angeles,LAL,2346.66
+Dallas Mavericks,DAL,Los Angeles,LAL,1437.7
+Denver Nuggets,DEN,Los Angeles,LAL,1019.3
+Detroit Pistons,DET,Los Angeles,LAL,2283.41
+Golden State Warriors,GSW,Los Angeles,LAL,367.92
+Houston Rockets,HOU,Los Angeles,LAL,1548.83
+Indiana Pacers,IND,Los Angeles,LAL,2078.3
+Los Angeles Lakers,LAL,Los Angeles,LAL,0
+Los Angeles Clippers,LAC,Los Angeles,LAL,0
+Memphis Grizzlies,MEM,Los Angeles,LAL,1797.94
+Miami Heat,MIA,Los Angeles,LAL,2731.88
+Milwaukee Bucks,MIL,Los Angeles,LAL,2058.72
+Minnesota Timberwolves,MIN,Los Angeles,LAL,1930.83
+New Orleans Pelicans,NOP,Los Angeles,LAL,1893.04
+New York Knicks,NYK,Los Angeles,LAL,2794.59
+Oklahoma City Thunder,OKC,Los Angeles,LAL,1331.81
+Orlando Magic,ORL,Los Angeles,LAL,2508.22
+Philadelphia 76ers,PHI,Los Angeles,LAL,2714.24
+Phoenix Suns,PHX,Los Angeles,LAL,374.24
+Portland Trailblazers,POR,Los Angeles,LAL,965.76
+Sacramento Kings,SAC,Los Angeles,LAL,386.02
+San Antonio Spurs,SAS,Los Angeles,LAL,1359.05
+Toronto Raptors,TOR,Los Angeles,LAL,2520.82
+Utah Jazz,UTA,Los Angeles,LAL,691.96
+Washington Wizards,WAS,Los Angeles,LAL,2672.72
+Atlanta Hawks,ATL,Los Angeles,LAC,2178.97
+Boston Celtics,BOS,Los Angeles,LAC,2986.21
+Brooklyn Nets,BKN,Los Angeles,LAC,2795.25
+Charlotte Hornets,CHA,Los Angeles,LAC,2423.84
+Chicago Bulls,CHI,Los Angeles,LAC,2016.18
+Cleveland Cavaliers,CLE,Los Angeles,LAC,2346.66
+Dallas Mavericks,DAL,Los Angeles,LAC,1437.7
+Denver Nuggets,DEN,Los Angeles,LAC,1019.3
+Detroit Pistons,DET,Los Angeles,LAC,2283.41
+Golden State Warriors,GSW,Los Angeles,LAC,367.92
+Houston Rockets,HOU,Los Angeles,LAC,1548.83
+Indiana Pacers,IND,Los Angeles,LAC,2078.3
+Los Angeles Lakers,LAL,Los Angeles,LAC,0
+Los Angeles Clippers,LAC,Los Angeles,LAC,0
+Memphis Grizzlies,MEM,Los Angeles,LAC,1797.94
+Miami Heat,MIA,Los Angeles,LAC,2731.88
+Milwaukee Bucks,MIL,Los Angeles,LAC,2058.72
+Minnesota Timberwolves,MIN,Los Angeles,LAC,1930.83
+New Orleans Pelicans,NOP,Los Angeles,LAC,1893.04
+New York Knicks,NYK,Los Angeles,LAC,2794.59
+Oklahoma City Thunder,OKC,Los Angeles,LAC,1331.81
+Orlando Magic,ORL,Los Angeles,LAC,2508.22
+Philadelphia 76ers,PHI,Los Angeles,LAC,2714.24
+Phoenix Suns,PHX,Los Angeles,LAC,374.24
+Portland Trailblazers,POR,Los Angeles,LAC,965.76
+Sacramento Kings,SAC,Los Angeles,LAC,386.02
+San Antonio Spurs,SAS,Los Angeles,LAC,1359.05
+Toronto Raptors,TOR,Los Angeles,LAC,2520.82
+Utah Jazz,UTA,Los Angeles,LAC,691.96
+Washington Wizards,WAS,Los Angeles,LAC,2672.72
+Atlanta Hawks,ATL,Memphis,MEM,385.01
+Boston Celtics,BOS,Memphis,MEM,1317.43
+Brooklyn Nets,BKN,Memphis,MEM,1103.84
+Charlotte Hornets,CHA,Memphis,MEM,629.88
+Chicago Bulls,CHI,Memphis,MEM,535.3
+Cleveland Cavaliers,CLE,Memphis,MEM,731.57
+Dallas Mavericks,DAL,Memphis,MEM,454.46
+Denver Nuggets,DEN,Memphis,MEM,1094.46
+Detroit Pistons,DET,Memphis,MEM,754.03
+Golden State Warriors,GSW,Memphis,MEM,2076.58
+Houston Rockets,HOU,Memphis,MEM,568.28
+Indiana Pacers,IND,Memphis,MEM,472.91
+Los Angeles Lakers,LAL,Memphis,MEM,1796.45
+Los Angeles Clippers,LAC,Memphis,MEM,1796.45
+Memphis Grizzlies,MEM,Memphis,MEM,0
+Miami Heat,MIA,Memphis,MEM,1045.27
+Milwaukee Bucks,MIL,Memphis,MEM,623.16
+Minnesota Timberwolves,MIN,Memphis,MEM,830.78
+New Orleans Pelicans,NOP,Memphis,MEM,393.46
+New York Knicks,NYK,Memphis,MEM,1099.55
+Oklahoma City Thunder,OKC,Memphis,MEM,467.42
+Orlando Magic,ORL,Memphis,MEM,821.61
+Philadelphia 76ers,PHI,Memphis,MEM,1016.3
+Phoenix Suns,PHX,Memphis,MEM,1424.6
+Portland Trailblazers,POR,Memphis,MEM,2249.05
+Sacramento Kings,SAC,Memphis,MEM,2090.11
+San Antonio Spurs,SAS,Memphis,MEM,723.59
+Toronto Raptors,TOR,Memphis,MEM,992.65
+Utah Jazz,UTA,Memphis,MEM,1524.47
+Washington Wizards,WAS,Memphis,MEM,878.16
+Atlanta Hawks,ATL,Miami,MIA,662.37
+Boston Celtics,BOS,Miami,MIA,1498.74
+Brooklyn Nets,BKN,Miami,MIA,1284.93
+Charlotte Hornets,CHA,Miami,MIA,728.54
+Chicago Bulls,CHI,Miami,MIA,1380.31
+Cleveland Cavaliers,CLE,Miami,MIA,1240.53
+Dallas Mavericks,DAL,Miami,MIA,1313.32
+Denver Nuggets,DEN,Miami,MIA,2061.53
+Detroit Pistons,DET,Miami,MIA,1392.42
+Golden State Warriors,GSW,Miami,MIA,3097.04
+Houston Rockets,HOU,Miami,MIA,1185.7
+Indiana Pacers,IND,Miami,MIA,1193.96
+Los Angeles Lakers,LAL,Miami,MIA,2734.58
+Los Angeles Clippers,LAC,Miami,MIA,2734.58
+Memphis Grizzlies,MEM,Miami,MIA,1043.45
+Miami Heat,MIA,Miami,MIA,0
+Milwaukee Bucks,MIL,Miami,MIA,1473.37
+Minnesota Timberwolves,MIN,Miami,MIA,1789.26
+New Orleans Pelicans,NOP,Miami,MIA,863.82
+New York Knicks,NYK,Miami,MIA,1286.28
+Oklahoma City Thunder,OKC,Miami,MIA,1508.36
+Orlando Magic,ORL,Miami,MIA,234.21
+Philadelphia 76ers,PHI,Miami,MIA,1197.38
+Phoenix Suns,PHX,Miami,MIA,2360.08
+Portland Trailblazers,POR,Miami,MIA,3257.27
+Sacramento Kings,SAC,Miami,MIA,3115.14
+San Antonio Spurs,SAS,Miami,MIA,1376.01
+Toronto Raptors,TOR,Miami,MIA,1483.86
+Utah Jazz,UTA,Miami,MIA,2532.7
+Washington Wizards,WAS,Miami,MIA,1050.44
+Atlanta Hawks,ATL,Milwaukee,MIL,813.51
+Boston Celtics,BOS,Milwaukee,MIL,1074.63
+Brooklyn Nets,BKN,Milwaukee,MIL,883.66
+Charlotte Hornets,CHA,Milwaukee,MIL,863.93
+Chicago Bulls,CHI,Milwaukee,MIL,91.97
+Cleveland Cavaliers,CLE,Milwaukee,MIL,435.08
+Dallas Mavericks,DAL,Milwaukee,MIL,1002.65
+Denver Nuggets,DEN,Milwaukee,MIL,1043.6
+Detroit Pistons,DET,Milwaukee,MIL,381.6
+Golden State Warriors,GSW,Milwaukee,MIL,2173.03
+Houston Rockets,HOU,Milwaukee,MIL,1172.4
+Indiana Pacers,IND,Milwaukee,MIL,283.6
+Los Angeles Lakers,LAL,Milwaukee,MIL,2058.74
+Los Angeles Clippers,LAC,Milwaukee,MIL,2058.74
+Memphis Grizzlies,MEM,Milwaukee,MIL,624.15
+Miami Heat,MIA,Milwaukee,MIL,1505.41
+Milwaukee Bucks,MIL,Milwaukee,MIL,0
+Minnesota Timberwolves,MIN,Milwaukee,MIL,337.23
+New Orleans Pelicans,NOP,Milwaukee,MIL,1016.41
+New York Knicks,NYK,Milwaukee,MIL,883.08
+Oklahoma City Thunder,OKC,Milwaukee,MIL,878.82
+Orlando Magic,ORL,Milwaukee,MIL,1251.71
+Philadelphia 76ers,PHI,Milwaukee,MIL,850.6
+Phoenix Suns,PHX,Milwaukee,MIL,1829.3
+Portland Trailblazers,POR,Milwaukee,MIL,2043.1
+Sacramento Kings,SAC,Milwaukee,MIL,2089.17
+San Antonio Spurs,SAS,Milwaukee,MIL,1273.47
+Toronto Raptors,TOR,Milwaukee,MIL,488.25
+Utah Jazz,UTA,Milwaukee,MIL,1440.06
+Washington Wizards,WAS,Milwaukee,MIL,792.68
+Atlanta Hawks,ATL,Minneapolis,MIN,1129.4
+Boston Celtics,BOS,Minneapolis,MIN,1399.98
+Brooklyn Nets,BKN,Minneapolis,MIN,1209
+Charlotte Hornets,CHA,Minneapolis,MIN,1180.93
+Chicago Bulls,CHI,Minneapolis,MIN,408.29
+Cleveland Cavaliers,CLE,Minneapolis,MIN,760.43
+Dallas Mavericks,DAL,Minneapolis,MIN,942.08
+Denver Nuggets,DEN,Minneapolis,MIN,914.03
+Detroit Pistons,DET,Minneapolis,MIN,697.18
+Golden State Warriors,GSW,Minneapolis,MIN,1980.45
+Houston Rockets,HOU,Minneapolis,MIN,1181.21
+Indiana Pacers,IND,Minneapolis,MIN,599.19
+Los Angeles Lakers,LAL,Minneapolis,MIN,1929.16
+Los Angeles Clippers,LAC,Minneapolis,MIN,1929.16
+Memphis Grizzlies,MEM,Minneapolis,MIN,830.78
+Miami Heat,MIA,Minneapolis,MIN,1791.27
+Milwaukee Bucks,MIL,Minneapolis,MIN,336.98
+Minnesota Timberwolves,MIN,Minneapolis,MIN,0
+New Orleans Pelicans,NOP,Minneapolis,MIN,1223.04
+New York Knicks,NYK,Minneapolis,MIN,1208.36
+Oklahoma City Thunder,OKC,Minneapolis,MIN,787.71
+Orlando Magic,ORL,Minneapolis,MIN,1567.61
+Philadelphia 76ers,PHI,Minneapolis,MIN,1175.94
+Phoenix Suns,PHX,Minneapolis,MIN,1642.08
+Portland Trailblazers,POR,Minneapolis,MIN,1728.39
+Sacramento Kings,SAC,Minneapolis,MIN,1893.59
+San Antonio Spurs,SAS,Minneapolis,MIN,1247.05
+Toronto Raptors,TOR,Minneapolis,MIN,822.57
+Utah Jazz,UTA,Minneapolis,MIN,1244.48
+Washington Wizards,WAS,Minneapolis,MIN,1118.03
+Atlanta Hawks,ATL,New Orleans,NOP,470.13
+Boston Celtics,BOS,New Orleans,NOP,1524.67
+Brooklyn Nets,BKN,New Orleans,NOP,1311.08
+Charlotte Hornets,CHA,New Orleans,NOP,714.3
+Chicago Bulls,CHI,New Orleans,NOP,926.65
+Cleveland Cavaliers,CLE,New Orleans,NOP,1052.7
+Dallas Mavericks,DAL,New Orleans,NOP,506.25
+Denver Nuggets,DEN,New Orleans,NOP,1298.45
+Detroit Pistons,DET,New Orleans,NOP,1075.16
+Golden State Warriors,GSW,New Orleans,NOP,2258.13
+Houston Rockets,HOU,New Orleans,NOP,346.79
+Indiana Pacers,IND,New Orleans,NOP,819.36
+Los Angeles Lakers,LAL,New Orleans,NOP,1895.66
+Los Angeles Clippers,LAC,New Orleans,NOP,1895.66
+Memphis Grizzlies,MEM,New Orleans,NOP,393.78
+Miami Heat,MIA,New Orleans,NOP,862.45
+Milwaukee Bucks,MIL,New Orleans,NOP,1016.2
+Minnesota Timberwolves,MIN,New Orleans,NOP,1222.13
+New Orleans Pelicans,NOP,New Orleans,NOP,0
+New York Knicks,NYK,New Orleans,NOP,1306.79
+Oklahoma City Thunder,OKC,New Orleans,NOP,708.01
+Orlando Magic,ORL,New Orleans,NOP,638.79
+Philadelphia 76ers,PHI,New Orleans,NOP,1223.54
+Phoenix Suns,PHX,New Orleans,NOP,1521.16
+Portland Trailblazers,POR,New Orleans,NOP,2511.46
+Sacramento Kings,SAC,New Orleans,NOP,2276.23
+San Antonio Spurs,SAS,New Orleans,NOP,537.1
+Toronto Raptors,TOR,New Orleans,NOP,1313.78
+Utah Jazz,UTA,New Orleans,NOP,1745.06
+Washington Wizards,WAS,New Orleans,NOP,1085.4
+Atlanta Hawks,ATL,New York (Manhattan),NYK,864.61
+Boston Celtics,BOS,New York (Manhattan),NYK,213.78
+Brooklyn Nets,BKN,New York (Manhattan),NYK,5.45
+Charlotte Hornets,CHA,New York (Manhattan),NYK,628.16
+Chicago Bulls,CHI,New York (Manhattan),NYK,792.7
+Cleveland Cavaliers,CLE,New York (Manhattan),NYK,463.46
+Dallas Mavericks,DAL,New York (Manhattan),NYK,1551.2
+Denver Nuggets,DEN,New York (Manhattan),NYK,1778.49
+Detroit Pistons,DET,New York (Manhattan),NYK,625.02
+Golden State Warriors,GSW,New York (Manhattan),NYK,2907.92
+Houston Rockets,HOU,New York (Manhattan),NYK,1629.86
+Indiana Pacers,IND,New York (Manhattan),NYK,712
+Los Angeles Lakers,LAL,New York (Manhattan),NYK,2793.63
+Los Angeles Clippers,LAC,New York (Manhattan),NYK,2793.63
+Memphis Grizzlies,MEM,New York (Manhattan),NYK,1098.87
+Miami Heat,MIA,New York (Manhattan),NYK,1278.77
+Milwaukee Bucks,MIL,New York (Manhattan),NYK,882.1
+Minnesota Timberwolves,MIN,New York (Manhattan),NYK,1199.11
+New Orleans Pelicans,NOP,New York (Manhattan),NYK,1307.87
+New York Knicks,NYK,New York (Manhattan),NYK,0
+Oklahoma City Thunder,OKC,New York (Manhattan),NYK,1452.78
+Orlando Magic,ORL,New York (Manhattan),NYK,1075.16
+Philadelphia 76ers,PHI,New York (Manhattan),NYK,95.76
+Phoenix Suns,PHX,New York (Manhattan),NYK,2409.97
+Portland Trailblazers,POR,New York (Manhattan),NYK,2899.53
+Sacramento Kings,SAC,New York (Manhattan),NYK,2824.06
+San Antonio Spurs,SAS,New York (Manhattan),NYK,1820.17
+Toronto Raptors,TOR,New York (Manhattan),NYK,471.67
+Utah Jazz,UTA,New York (Manhattan),NYK,2174.95
+Washington Wizards,WAS,New York (Manhattan),NYK,228.65
+Atlanta Hawks,ATL,Oklahoma City,OKC,848.94
+Boston Celtics,BOS,Oklahoma City,OKC,1689.49
+Brooklyn Nets,BKN,Oklahoma City,OKC,1467.56
+Charlotte Hornets,CHA,Oklahoma City,OKC,1084.84
+Chicago Bulls,CHI,Oklahoma City,OKC,796.77
+Cleveland Cavaliers,CLE,Oklahoma City,OKC,1055.06
+Dallas Mavericks,DAL,Oklahoma City,OKC,204.26
+Denver Nuggets,DEN,Oklahoma City,OKC,677.57
+Detroit Pistons,DET,Oklahoma City,OKC,1047.1
+Golden State Warriors,GSW,Oklahoma City,OKC,1610.62
+Houston Rockets,HOU,Oklahoma City,OKC,445.58
+Indiana Pacers,IND,Oklahoma City,OKC,747.37
+Los Angeles Lakers,LAL,Oklahoma City,OKC,1330.49
+Los Angeles Clippers,LAC,Oklahoma City,OKC,1330.49
+Memphis Grizzlies,MEM,Oklahoma City,OKC,467.91
+Miami Heat,MIA,Oklahoma City,OKC,1509.2
+Milwaukee Bucks,MIL,Oklahoma City,OKC,870.22
+Minnesota Timberwolves,MIN,Oklahoma City,OKC,789.32
+New Orleans Pelicans,NOP,Oklahoma City,OKC,707.25
+New York Knicks,NYK,Oklahoma City,OKC,1451.06
+Oklahoma City Thunder,OKC,Oklahoma City,OKC,0
+Orlando Magic,ORL,Oklahoma City,OKC,1285.54
+Philadelphia 76ers,PHI,Oklahoma City,OKC,1383.32
+Phoenix Suns,PHX,Oklahoma City,OKC,958.64
+Portland Trailblazers,POR,Oklahoma City,OKC,1912.21
+Sacramento Kings,SAC,Oklahoma City,OKC,1621.98
+San Antonio Spurs,SAS,Oklahoma City,OKC,463.12
+Toronto Raptors,TOR,Oklahoma City,OKC,1284.51
+Utah Jazz,UTA,Oklahoma City,OKC,1187.64
+Washington Wizards,WAS,Oklahoma City,OKC,1342.69
+Atlanta Hawks,ATL,Orlando,ORL,438.74
+Boston Celtics,BOS,Orlando,ORL,1294.98
+Brooklyn Nets,BKN,Orlando,ORL,1081.16
+Charlotte Hornets,CHA,Orlando,ORL,524.78
+Chicago Bulls,CHI,Orlando,ORL,1156.67
+Cleveland Cavaliers,CLE,Orlando,ORL,1036.77
+Dallas Mavericks,DAL,Orlando,ORL,1089.68
+Denver Nuggets,DEN,Orlando,ORL,1837.89
+Detroit Pistons,DET,Orlando,ORL,1168.79
+Golden State Warriors,GSW,Orlando,ORL,2873.41
+Houston Rockets,HOU,Orlando,ORL,962.06
+Indiana Pacers,IND,Orlando,ORL,970.33
+Los Angeles Lakers,LAL,Orlando,ORL,2510.01
+Los Angeles Clippers,LAC,Orlando,ORL,2510.01
+Memphis Grizzlies,MEM,Orlando,ORL,819.81
+Miami Heat,MIA,Orlando,ORL,233.63
+Milwaukee Bucks,MIL,Orlando,ORL,1249.73
+Minnesota Timberwolves,MIN,Orlando,ORL,1564.97
+New Orleans Pelicans,NOP,Orlando,ORL,640.18
+New York Knicks,NYK,Orlando,ORL,1082.35
+Oklahoma City Thunder,OKC,Orlando,ORL,1284.73
+Orlando Magic,ORL,Orlando,ORL,0
+Philadelphia 76ers,PHI,Orlando,ORL,993.62
+Phoenix Suns,PHX,Orlando,ORL,2136.44
+Portland Trailblazers,POR,Orlando,ORL,3033.63
+Sacramento Kings,SAC,Orlando,ORL,2891.5
+San Antonio Spurs,SAS,Orlando,ORL,1152.37
+Toronto Raptors,TOR,Orlando,ORL,1280.09
+Utah Jazz,UTA,Orlando,ORL,2309.06
+Washington Wizards,WAS,Orlando,ORL,846.67
+Atlanta Hawks,ATL,Philadelphia,PHI,775.82
+Boston Celtics,BOS,Philadelphia,PHI,309.3
+Brooklyn Nets,BKN,Philadelphia,PHI,98.12
+Charlotte Hornets,CHA,Philadelphia,PHI,539.37
+Chicago Bulls,CHI,Philadelphia,PHI,760.49
+Cleveland Cavaliers,CLE,Philadelphia,PHI,431.24
+Dallas Mavericks,DAL,Philadelphia,PHI,1506.04
+Denver Nuggets,DEN,Philadelphia,PHI,1726.68
+Detroit Pistons,DET,Philadelphia,PHI,592.81
+Golden State Warriors,GSW,Philadelphia,PHI,2875.7
+Houston Rockets,HOU,Philadelphia,PHI,1545.98
+Indiana Pacers,IND,Philadelphia,PHI,643.6
+Los Angeles Lakers,LAL,Philadelphia,PHI,2712.61
+Los Angeles Clippers,LAC,Philadelphia,PHI,2712.61
+Memphis Grizzlies,MEM,Philadelphia,PHI,1014.99
+Miami Heat,MIA,Philadelphia,PHI,1189.98
+Milwaukee Bucks,MIL,Philadelphia,PHI,849.89
+Minnesota Timberwolves,MIN,Philadelphia,PHI,1172.13
+New Orleans Pelicans,NOP,Philadelphia,PHI,1223.99
+New York Knicks,NYK,Philadelphia,PHI,96.67
+Oklahoma City Thunder,OKC,Philadelphia,PHI,1384.39
+Orlando Magic,ORL,Philadelphia,PHI,986.37
+Philadelphia 76ers,PHI,Philadelphia,PHI,0
+Phoenix Suns,PHX,Philadelphia,PHI,2341.5
+Portland Trailblazers,POR,Philadelphia,PHI,2867.31
+Sacramento Kings,SAC,Philadelphia,PHI,2791.84
+San Antonio Spurs,SAS,Philadelphia,PHI,1736.29
+Toronto Raptors,TOR,Philadelphia,PHI,472.8
+Utah Jazz,UTA,Philadelphia,PHI,2142.74
+Washington Wizards,WAS,Philadelphia,PHI,139.83
+Atlanta Hawks,ATL,Phoenix,PHX,1846
+Boston Celtics,BOS,Phoenix,PHX,2651.26
+Brooklyn Nets,BKN,Phoenix,PHX,2429.33
+Charlotte Hornets,CHA,Phoenix,PHX,2090.87
+Chicago Bulls,CHI,Phoenix,PHX,1754.12
+Cleveland Cavaliers,CLE,Phoenix,PHX,2013.85
+Dallas Mavericks,DAL,Phoenix,PHX,1064.18
+Denver Nuggets,DEN,Phoenix,PHX,863.56
+Detroit Pistons,DET,Phoenix,PHX,2006.03
+Golden State Warriors,GSW,Phoenix,PHX,736.92
+Houston Rockets,HOU,Phoenix,PHX,1175.3
+Indiana Pacers,IND,Phoenix,PHX,1706.17
+Los Angeles Lakers,LAL,Phoenix,PHX,373.52
+Los Angeles Clippers,LAC,Phoenix,PHX,373.52
+Memphis Grizzlies,MEM,Phoenix,PHX,1425.94
+Miami Heat,MIA,Phoenix,PHX,2358.36
+Milwaukee Bucks,MIL,Phoenix,PHX,1829.15
+Minnesota Timberwolves,MIN,Phoenix,PHX,1645.74
+New Orleans Pelicans,NOP,Phoenix,PHX,1519.52
+New York Knicks,NYK,Phoenix,PHX,2410.02
+Oklahoma City Thunder,OKC,Phoenix,PHX,959.81
+Orlando Magic,ORL,Phoenix,PHX,2134.7
+Philadelphia 76ers,PHI,Phoenix,PHX,2345.09
+Phoenix Suns,PHX,Phoenix,PHX,0
+Portland Trailblazers,POR,Phoenix,PHX,1334.76
+Sacramento Kings,SAC,Phoenix,PHX,755.02
+San Antonio Spurs,SAS,Phoenix,PHX,985.52
+Toronto Raptors,TOR,Phoenix,PHX,2243.44
+Utah Jazz,UTA,Phoenix,PHX,659.75
+Washington Wizards,WAS,Phoenix,PHX,2302.2
+Atlanta Hawks,ATL,Portland,POR,2593.19
+Boston Celtics,BOS,Portland,POR,3086.27
+Brooklyn Nets,BKN,Portland,POR,2895.3
+Charlotte Hornets,CHA,Portland,POR,2754.16
+Chicago Bulls,CHI,Portland,POR,2116.25
+Cleveland Cavaliers,CLE,Portland,POR,2446.78
+Dallas Mavericks,DAL,Portland,POR,2032.72
+Denver Nuggets,DEN,Portland,POR,1240.44
+Detroit Pistons,DET,Portland,POR,2383.48
+Golden State Warriors,GSW,Portland,POR,640.75
+Houston Rockets,HOU,Portland,POR,2274.04
+Indiana Pacers,IND,Portland,POR,2262.52
+Los Angeles Lakers,LAL,Portland,POR,965.74
+Los Angeles Clippers,LAC,Portland,POR,965.74
+Memphis Grizzlies,MEM,Portland,POR,2245.8
+Miami Heat,MIA,Portland,POR,3255.05
+Milwaukee Bucks,MIL,Portland,POR,2063.52
+Minnesota Timberwolves,MIN,Portland,POR,1728.14
+New Orleans Pelicans,NOP,Portland,POR,2506.49
+New York Knicks,NYK,Portland,POR,2894.56
+Oklahoma City Thunder,OKC,Portland,POR,1909.5
+Orlando Magic,ORL,Portland,POR,3031.39
+Philadelphia 76ers,PHI,Portland,POR,2862.24
+Phoenix Suns,PHX,Portland,POR,1266.58
+Portland Trailblazers,POR,Portland,POR,0
+Sacramento Kings,SAC,Portland,POR,580.39
+San Antonio Spurs,SAS,Portland,POR,2074.64
+Toronto Raptors,TOR,Portland,POR,2620.89
+Utah Jazz,UTA,Portland,POR,763.61
+Washington Wizards,WAS,Portland,POR,2804.32
+Atlanta Hawks,ATL,Sacramento,SAC,2468.83
+Boston Celtics,BOS,Sacramento,SAC,3011.62
+Brooklyn Nets,BKN,Sacramento,SAC,2820.64
+Charlotte Hornets,CHA,Sacramento,SAC,2679.5
+Chicago Bulls,CHI,Sacramento,SAC,2041.6
+Cleveland Cavaliers,CLE,Sacramento,SAC,2372.12
+Dallas Mavericks,DAL,Sacramento,SAC,1725.39
+Denver Nuggets,DEN,Sacramento,SAC,1125.27
+Detroit Pistons,DET,Sacramento,SAC,2308.82
+Golden State Warriors,GSW,Sacramento,SAC,91.84
+Houston Rockets,HOU,Sacramento,SAC,1930
+Indiana Pacers,IND,Sacramento,SAC,2187.86
+Los Angeles Lakers,LAL,Sacramento,SAC,391.58
+Los Angeles Clippers,LAC,Sacramento,SAC,391.58
+Memphis Grizzlies,MEM,Sacramento,SAC,2087.79
+Miami Heat,MIA,Sacramento,SAC,3113.06
+Milwaukee Bucks,MIL,Sacramento,SAC,2085.18
+Minnesota Timberwolves,MIN,Sacramento,SAC,1893.74
+New Orleans Pelicans,NOP,Sacramento,SAC,2228.31
+New York Knicks,NYK,Sacramento,SAC,2819.91
+Oklahoma City Thunder,OKC,Sacramento,SAC,1621.66
+Orlando Magic,ORL,Sacramento,SAC,2889.4
+Philadelphia 76ers,PHI,Sacramento,SAC,2787.59
+Phoenix Suns,PHX,Sacramento,SAC,755.3
+Portland Trailblazers,POR,Sacramento,SAC,580.02
+Sacramento Kings,SAC,Sacramento,SAC,0
+San Antonio Spurs,SAS,Sacramento,SAC,1740.22
+Toronto Raptors,TOR,Sacramento,SAC,2546.23
+Utah Jazz,UTA,Sacramento,SAC,652.12
+Washington Wizards,WAS,Sacramento,SAC,2729.67
+Atlanta Hawks,ATL,San Antonio,SAS,983.64
+Boston Celtics,BOS,San Antonio,SAS,2037.81
+Brooklyn Nets,BKN,San Antonio,SAS,1824.24
+Charlotte Hornets,CHA,San Antonio,SAS,1226.39
+Chicago Bulls,CHI,San Antonio,SAS,1239.12
+Cleveland Cavaliers,CLE,San Antonio,SAS,1452.18
+Dallas Mavericks,DAL,San Antonio,SAS,271.27
+Denver Nuggets,DEN,San Antonio,SAS,936.22
+Detroit Pistons,DET,San Antonio,SAS,1484.28
+Golden State Warriors,GSW,San Antonio,SAS,1721.42
+Houston Rockets,HOU,San Antonio,SAS,192.91
+Indiana Pacers,IND,San Antonio,SAS,1176.95
+Los Angeles Lakers,LAL,San Antonio,SAS,1358.02
+Los Angeles Clippers,LAC,San Antonio,SAS,1358.02
+Memphis Grizzlies,MEM,San Antonio,SAS,723.98
+Miami Heat,MIA,San Antonio,SAS,1375.96
+Milwaukee Bucks,MIL,San Antonio,SAS,1326.98
+Minnesota Timberwolves,MIN,San Antonio,SAS,1248.81
+New Orleans Pelicans,NOP,San Antonio,SAS,537.12
+New York Knicks,NYK,San Antonio,SAS,1819.93
+Oklahoma City Thunder,OKC,San Antonio,SAS,462.68
+Orlando Magic,ORL,San Antonio,SAS,1152.3
+Philadelphia 76ers,PHI,San Antonio,SAS,1736.68
+Phoenix Suns,PHX,San Antonio,SAS,984.45
+Portland Trailblazers,POR,San Antonio,SAS,2080.23
+Sacramento Kings,SAC,San Antonio,SAS,1739.51
+San Antonio Spurs,SAS,San Antonio,SAS,0
+Toronto Raptors,TOR,San Antonio,SAS,1721.69
+Utah Jazz,UTA,San Antonio,SAS,1306.75
+Washington Wizards,WAS,San Antonio,SAS,1600.02
+Atlanta Hawks,ATL,Toronto,TOR,949.94
+Boston Celtics,BOS,Toronto,TOR,549.49
+Brooklyn Nets,BKN,Toronto,TOR,473.07
+Charlotte Hornets,CHA,Toronto,TOR,758.4
+Chicago Bulls,CHI,Toronto,TOR,520.89
+Cleveland Cavaliers,CLE,Toronto,TOR,291.34
+Dallas Mavericks,DAL,Toronto,TOR,1414.93
+Denver Nuggets,DEN,Toronto,TOR,1505.5
+Detroit Pistons,DET,Toronto,TOR,234.71
+Golden State Warriors,GSW,Toronto,TOR,2634.93
+Houston Rockets,HOU,Toronto,TOR,1539.52
+Indiana Pacers,IND,Toronto,TOR,515.09
+Los Angeles Lakers,LAL,Toronto,TOR,2520.6
+Los Angeles Clippers,LAC,Toronto,TOR,2520.6
+Memphis Grizzlies,MEM,Toronto,TOR,971.59
+Miami Heat,MIA,Toronto,TOR,1483.49
+Milwaukee Bucks,MIL,Toronto,TOR,487.24
+Minnesota Timberwolves,MIN,Toronto,TOR,823.13
+New Orleans Pelicans,NOP,Toronto,TOR,1294.67
+New York Knicks,NYK,Toronto,TOR,472.34
+Oklahoma City Thunder,OKC,Toronto,TOR,1285.52
+Orlando Magic,ORL,Toronto,TOR,1279.89
+Philadelphia 76ers,PHI,Toronto,TOR,477.35
+Phoenix Suns,PHX,Toronto,TOR,2242.78
+Portland Trailblazers,POR,Toronto,TOR,2626.54
+Sacramento Kings,SAC,Toronto,TOR,2551.07
+San Antonio Spurs,SAS,Toronto,TOR,1684.06
+Toronto Raptors,TOR,Toronto,TOR,0
+Utah Jazz,UTA,Toronto,TOR,1901.96
+Washington Wizards,WAS,Toronto,TOR,482.73
+Atlanta Hawks,ATL,Salt Lake City,UTA,1872.01
+Boston Celtics,BOS,Salt Lake City,UTA,2365.09
+Brooklyn Nets,BKN,Salt Lake City,UTA,2174.12
+Charlotte Hornets,CHA,Salt Lake City,UTA,2032.98
+Chicago Bulls,CHI,Salt Lake City,UTA,1395.08
+Cleveland Cavaliers,CLE,Salt Lake City,UTA,1725.6
+Dallas Mavericks,DAL,Salt Lake City,UTA,1240.65
+Denver Nuggets,DEN,Salt Lake City,UTA,519.27
+Detroit Pistons,DET,Salt Lake City,UTA,1662.3
+Golden State Warriors,GSW,Salt Lake City,UTA,740.19
+Houston Rockets,HOU,Salt Lake City,UTA,1481.98
+Indiana Pacers,IND,Salt Lake City,UTA,1541.34
+Los Angeles Lakers,LAL,Salt Lake City,UTA,690.55
+Los Angeles Clippers,LAC,Salt Lake City,UTA,690.55
+Memphis Grizzlies,MEM,Salt Lake City,UTA,1524.62
+Miami Heat,MIA,Salt Lake City,UTA,2533.87
+Milwaukee Bucks,MIL,Salt Lake City,UTA,1437.61
+Minnesota Timberwolves,MIN,Salt Lake City,UTA,1247.22
+New Orleans Pelicans,NOP,Salt Lake City,UTA,1743.57
+New York Knicks,NYK,Salt Lake City,UTA,2173.39
+Oklahoma City Thunder,OKC,Salt Lake City,UTA,1188.33
+Orlando Magic,ORL,Salt Lake City,UTA,2310.21
+Philadelphia 76ers,PHI,Salt Lake City,UTA,2141.06
+Phoenix Suns,PHX,Salt Lake City,UTA,718.81
+Portland Trailblazers,POR,Salt Lake City,UTA,767.35
+Sacramento Kings,SAC,Salt Lake City,UTA,651.72
+San Antonio Spurs,SAS,Salt Lake City,UTA,1306.33
+Toronto Raptors,TOR,Salt Lake City,UTA,1899.71
+Utah Jazz,UTA,Salt Lake City,UTA,0
+Washington Wizards,WAS,Salt Lake City,UTA,2083.15
+Atlanta Hawks,ATL,Washington DC,WAS,636.35
+Boston Celtics,BOS,Washington DC,WAS,439.8
+Brooklyn Nets,BKN,Washington DC,WAS,225.99
+Charlotte Hornets,CHA,Washington DC,WAS,399.9
+Chicago Bulls,CHI,Washington DC,WAS,704.15
+Cleveland Cavaliers,CLE,Washington DC,WAS,374.96
+Dallas Mavericks,DAL,Washington DC,WAS,1329.51
+Denver Nuggets,DEN,Washington DC,WAS,1661.87
+Detroit Pistons,DET,Washington DC,WAS,536.53
+Golden State Warriors,GSW,Washington DC,WAS,2819.42
+Houston Rockets,HOU,Washington DC,WAS,1408.17
+Indiana Pacers,IND,Washington DC,WAS,578.52
+Los Angeles Lakers,LAL,Washington DC,WAS,2670.41
+Los Angeles Clippers,LAC,Washington DC,WAS,2670.41
+Memphis Grizzlies,MEM,Washington DC,WAS,877.18
+Miami Heat,MIA,Washington DC,WAS,1050.51
+Milwaukee Bucks,MIL,Washington DC,WAS,793.6
+Minnesota Timberwolves,MIN,Washington DC,WAS,1110.61
+New Orleans Pelicans,NOP,Washington DC,WAS,1086.18
+New York Knicks,NYK,Washington DC,WAS,227.17
+Oklahoma City Thunder,OKC,Washington DC,WAS,1342.47
+Orlando Magic,ORL,Washington DC,WAS,846.9
+Philadelphia 76ers,PHI,Washington DC,WAS,138.44
+Phoenix Suns,PHX,Washington DC,WAS,2299.73
+Portland Trailblazers,POR,Washington DC,WAS,2811.03
+Sacramento Kings,SAC,Washington DC,WAS,2735.56
+San Antonio Spurs,SAS,Washington DC,WAS,1598.48
+Toronto Raptors,TOR,Washington DC,WAS,483.89
+Utah Jazz,UTA,Washington DC,WAS,2086.45
+Washington Wizards,WAS,Washington DC,WAS,0

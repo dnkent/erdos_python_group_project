@@ -1,6 +1,6 @@
 # Team 21: Predicting NBA Scores 
 
-Final project for the Python and data science boot camp, hosted by the Erdos Institute.
+Final project for the Boot Camp 2020 runned by the Erdos Institute.
 
 
 
@@ -14,11 +14,11 @@ Final project for the Python and data science boot camp, hosted by the Erdos Ins
 
 ## Susquehanna International Group (SIG) - Sports Analytics Group Problem
 
-We aim to build predictive models of total sccores for NBA games. More formally, we construct a model that takes in inputs {team A, team B, and any other relevant conditions}, and outputs the following: for all reasonable values of X, what is the probability that the combined final score of both teams is at least X?
+We aim to build classifiers on totals for NBA games. More formally, we construct a model that takes in inputs {team A, team B, and any other relevant conditions}, and outputs the following: for all reasonable values of X, what is the probability that the combined final score of both teams is at least X?
 
 ## Data
 
-The `final_nba_data.csv` is the main dataset containing the target and features. The `Constructing NBA Dataset.ipynb` shows how we cleaned and obtained the final dataset. 
+The `final_nba_data.csv` is the main dataset containing the target and features. The `Constructing NBA Dataset.ipynb` shows how we cleaned and obtained the final dataset. `referees.csv`,`rivalries.csv`, and `distance_between_cities.csv` were imported to get the final dataset. 
 
 - *Target*
  - Combined score (TOT_PTS)
@@ -35,16 +35,14 @@ The `final_nba_data.csv` is the main dataset containing the target and features.
 
 ## Model 
 
+- `ridge_lasso_enet` fits ridge regression, lasso regression, and eleastic net models. 
+- `random_forest.ipynb` fits random forests on the past month of games before the game of interest. 
+- `pr_score_less_than_x.ipynb` calculates the probability that a combined final score is at least X. 
 
-`ridge_lasso_enet.ipynb`: regularized regressions and a neural network
-
-`random_forest.ipynb`: random forests
-
-`pr_score_less_than_x.ipynb`: bootstrapping random forest predictions to infer a probability distribution of possible scores for any potential game
 
 
 ## Team Members
 
 - Soohyun Cho (cho.885@osu.edu) 
 - Miguel Garza Casado (garzacasado.1@osu.edu)
-- Daniel Kent(kent.249@.osu.edu) 
+- Daniel Kent (kent.249@.osu.edu) 
