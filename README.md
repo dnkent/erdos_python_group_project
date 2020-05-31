@@ -1,6 +1,6 @@
 # Team 21: Predicting NBA Scores 
 
-Final project for the Boot Camp 2020 runned by the Erdos Institute.
+Final project for the Boot Camp 2020 by the Erdos Institute.
 
 
 
@@ -35,7 +35,7 @@ The `final_nba_data.csv` is the main dataset containing the target and features.
 
 ## Model 
 
-- `ridge_lasso_enet` fits ridge regression, lasso regression, and eleastic net models. 
+- `ridge_lasso_enet_gb.ipynb` fits ridge regression, lasso regression, eleastic net models, and gradient boosting machine.  
 - `random_forest.ipynb` fits random forests on the past month of games before the game of interest. 
 - `pr_score_less_than_x.ipynb` calculates the probability that a combined final score is at least X. 
 
@@ -45,4 +45,4 @@ The `final_nba_data.csv` is the main dataset containing the target and features.
 
 - Soohyun Cho (cho.885@osu.edu) 
 - Miguel Garza Casado (garzacasado.1@osu.edu)
-- Daniel Kent (kent.249@.osu.edu) 
+- Daniel Kent(kent.249@.osu.edu) 
